@@ -54,4 +54,6 @@ precio = float(input("Introduce el precio"))
 print("El precio del producto es", str(precio))
 print(type(precio))
 
+#Hola
+
 
