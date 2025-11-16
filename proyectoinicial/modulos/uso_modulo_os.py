@@ -22,5 +22,3 @@ print(pow(2,5))
 print(random()) #Valor de 0 entre 0.99999
 print(randint(1,10))
 
-
-

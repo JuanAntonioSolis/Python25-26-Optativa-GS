@@ -21,7 +21,7 @@ def calcularCumple(fecha_cumple):
         diferencia = fecha_cumple - hoy
         print("Quedan", diferencia.days, "dias para tu cumple")
 
-cumple = date(2025,6,19)
+cumple = date(2025,1,17)
 
 calcularCumple(cumple)
                                                                                                                                                                                                                              
